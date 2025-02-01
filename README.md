@@ -95,7 +95,7 @@ Once both the frontend and backend servers are up and running, users can visit t
 
 ### Live Links
 
-- Frontend:
+- Frontend: https://key-fusion.vercel.app/
 
 ### GitHub Repositories
 
